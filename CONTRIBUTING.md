@@ -1,5 +1,5 @@
-# Contributing to QuickCart
 
+<<<<<<< HEAD
 Thank you for considering contributing to **QuickCart** 
 We welcome contributions from everyone whether it's fixing a bug, adding a new feature or improving the design.
 
@@ -53,3 +53,5 @@ You can:
 ---
 
 We're excited to see your contributions 
+=======
+>>>>>>> 9a9be9c37532a650fd758a05fe1411764636f0a9
