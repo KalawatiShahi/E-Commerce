@@ -52,4 +52,4 @@ You can:
 
 ---
 
-We're excited to see your contributions 🚀
+We're excited to see your contributions 
